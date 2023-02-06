@@ -3,6 +3,10 @@
 KNN-Nearest Best Fit K-Value
 
 This project aims to find the best fit k value for the K-Nearest Neighbor (KNN) algorithm. KNN is a simple and popular machine learning algorithm used for classification and regression problems. The algorithm classifies an input by finding the k nearest data points and taking a majority vote of the classes of these points.
+
+Inferance:
+For k =30 the least error rate or prediction accuracy is quite highest for given dataset as compared with model using k =1 as value for KNN Classifier
+
 ![image](https://user-images.githubusercontent.com/121399866/216979113-81250d7c-cdf4-4b42-ac0e-9a2be04211f4.png)
 
 Installation
